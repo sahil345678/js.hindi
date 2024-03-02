@@ -1,0 +1,2 @@
+# js.hindi
+starting javascript
